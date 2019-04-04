@@ -30,8 +30,8 @@ echo ""
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
 echobold "The following directories are set."
 
-ROOT="/Users/csun/hugo-projects/jiyinjc-hugo/"
-WEBSITE="${ROOT}/jiyinjc-website"
+ROOT="/Users/csun/hugo-projects/"
+WEBSITE="${ROOT}/jiyinjc-hugo/jiyinjc-website"
 WEBSITEPUBLIC="${WEBSITE}/public"
 
 echo "Root directory____________ ${ROOT}"
