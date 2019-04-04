@@ -1,0 +1,4 @@
+theme="mediumish-gohugo-theme"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "基因检测"
